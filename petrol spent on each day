@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+ int x,y ;
+   printf("petrol spent on wednesday x\n");
+   printf("petrol spent on thursday x+y");
+   scanf("%d %d",&x,&y);
+   printf("\n%d",x+y+x); 
+   return 0;
+}
