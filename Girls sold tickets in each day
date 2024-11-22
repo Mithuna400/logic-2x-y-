@@ -1,0 +1,32 @@
+# include <stdio.h>
+int main()
+// calculate the nof tickets sold by the girls 
+{
+    int x,y,z;
+    printf("no of tickets sold in first week: ");
+    scanf ("%d",&x);
+    printf("\nno of tickets sold in second week: ");
+    scanf ("%d",&y);
+    printf("\nno of tickets sold in third week: ");
+    scanf ("%d",&z); 
+    printf("\nthe total no of tickets:%d",x+y+z);
+    return 0;
+    }
+********************************************************
+OUTPUT
+
+no of tickets sold in first week: 80
+
+no of tickets sold in second week: 90
+
+no of tickets sold in third week: 40
+
+the total no of tickets:210
+
+
+
+
+
+
+
+
